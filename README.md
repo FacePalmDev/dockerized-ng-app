@@ -3,7 +3,7 @@ As part of a project that I'm working on. I've decided to make my QA/Demo enviro
 
 ## Quick Start
 ### Pre-requisites
-1) Docker installed
+1) Docker for Windows / Docker Toolbox installed
 2) Angular Cli installed
 
 ### Run the example
