@@ -17,3 +17,7 @@ A neat little npm script has been set up to call batch files which does the foll
 Simply run 
 ``` npm run qa ```
 
+### Why would I want this?
+In my use case I made a container for my QA environment. This setup allows me to test my Angular Apps on a cloned QA environment (even when offline!).
+
+This also allows you to spin up multiple environments that are guaranteed to just work; for example, it can enable you to give on site client demos without the need to connect to their WIFI networks (as this isn't always possible).
